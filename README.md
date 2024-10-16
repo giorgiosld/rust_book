@@ -22,14 +22,30 @@ Each folder contains:
 
 ## Progress
 
-| Chapter                                | Status   |
-|----------------------------------------|----------|
-| Chapter 1: Getting Started             | ✅ Completed |
-| Chapter 2: Programming a Guessing Game | ✅ Completed |
-| Chapter 3: Common Programming Concepts | 🚧 In Progress |
-| Chapter 4: Understanding Ownership     | ⏳ Planned |
+| Chapter                                                                 | Status   |
+|-------------------------------------------------------------------------|----------|
+| Chapter 1: Getting Started                                              | ✅ Completed |
+| Chapter 2: Programming a Guessing Game                                  | ✅ Completed |
+| Chapter 3: Common Programming Concepts                                  | ✅ Completed |
+| Chapter 4: Understanding Ownership                                      | 🚧 In Progress |
+| Chapter 5: Using Structs to Structure Related Data                      | ⏳ Planned |
+| Chapter 6: Enums and Pattern Matching                                   | ⏳ Planned |
+| Chapter 7: Managing Growing Projects with Packages, Crates, and Modules | ⏳ Planned |
+| Chapter 8: Common Collections                                           | ⏳ Planned |
+| Chapter 9: Error Handling                                               | ⏳ Planned |
+| Chapter 10: Generic Types, Traits, and Lifetimes                        | ⏳ Planned |
+| Chapter 11: Writing Automated Tests                                     | ⏳ Planned |
+| Chapter 12: An I/O Project: Building a Command Line Program             | ⏳ Planned |
+| Chapter 13: Functional Language Features: Iterators and Closures        | ⏳ Planned |
+| Chapter 14: More About Cargo and Crates.io                              | ⏳ Planned |
+| Chapter 15: Smart Pointers                                              | ⏳ Planned |
+| Chapter 16: Fearless Concurrency                                        | ⏳ Planned |
+| Chapter 17: Async and Await                                             | ⏳ Planned |
+| Chapter 18: Object-Oriented Programming Features of Rust                | ⏳ Planned |
+| Chapter 19: Patterns and Matching                                       | ⏳ Planned |
+| Chapter 20: Advanced Features                                           | ⏳ Planned |
+| Chapter 21: Final Project: Building a Multithreaded Web Server          | ⏳ Planned |
 
-*(This table will be updated as I progress through the chapters.)*
 
 ## Installation
 

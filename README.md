@@ -28,8 +28,8 @@ Each folder contains:
 | Chapter 2: Programming a Guessing Game                                  | ✅ Completed |
 | Chapter 3: Common Programming Concepts                                  | ✅ Completed |
 | Chapter 4: Understanding Ownership                                      | 🚧 In Progress |
-| Chapter 5: Using Structs to Structure Related Data                      | ⏳ Planned |
-| Chapter 6: Enums and Pattern Matching                                   | ⏳ Planned |
+| Chapter 5: Using Structs to Structure Related Data                      | ✅ Completed  |
+| Chapter 6: Enums and Pattern Matching                                   | 🚧 In Progress  |
 | Chapter 7: Managing Growing Projects with Packages, Crates, and Modules | ⏳ Planned |
 | Chapter 8: Common Collections                                           | ⏳ Planned |
 | Chapter 9: Error Handling                                               | ⏳ Planned |
